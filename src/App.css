@@ -1,0 +1,27 @@
+.App {
+	text-align: center;
+}
+.App-logo {
+	object-fit: contain;
+	height: 150px;
+}
+
+.App-container {
+	background-color: #444748;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	font-size: calc(10px + 2vmin);
+	min-height: 100vh;
+	padding: 16px;
+	text-align: left;
+}
+.App-nav {
+	list-style: none;
+}
+
+a {
+	color: #09f;
+	font-size: 32px;
+	text-decoration: none;
+}
